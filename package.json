@@ -1,0 +1,17 @@
+{
+  "name": "primera-pre-entrega",
+  "version": "1.0.0",
+  "description": "primera entrega",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "benitez pablo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
